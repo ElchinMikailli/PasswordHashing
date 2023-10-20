@@ -11,5 +11,5 @@ I am using Go version 1.19.8.
 I am providing instructions on how to download and install essential libraries for your project:
 
 - **bcrypt library**
-  ```bash go get golang.org/x/crypto/bcrypt
+  ```go get golang.org/x/crypto/bcrypt
 
